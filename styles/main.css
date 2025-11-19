@@ -25,6 +25,11 @@ p {
   color: #031d86;
 }
 
+.content {
+  background-color: transparent;
+  padding: 1em;
+}
+
 footer {
   margin-top: 50px;
   font-size: 0.9em;
